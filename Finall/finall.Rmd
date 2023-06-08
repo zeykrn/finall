@@ -25,7 +25,7 @@ urlcolor: blue
 fontsize: 12pt
 biblio-style: apalike
 abstract: |
-  In this research, I argue that question "How pricing affects video games sales?". In the articles I quote, I focus on the effect of the price drop on the purchase of games, and I do my studies on this. I support my research with tables, hypothesis testing, and graph to support these question. As a result...
+  In this research, I argue that question "Do high-priced games affect sales worse than low-priced ones?". In the articles I quoted, I focused on the effects of the price drop on the purchase of games, and I do my studies on this. I supported my research with tables, hypothesis testing, and graph to support these question. As a result...
 ---
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(cache = FALSE, echo = TRUE, message = FALSE, warning = FALSE)
@@ -34,7 +34,7 @@ knitr::opts_chunk$set(cache = FALSE, echo = TRUE, message = FALSE, warning = FAL
 <!-- ======================================================================= -->
 <!-- ============================== FOOTNOTES ============================== -->
 <!-- ======================================================================= -->
-[^1]: 20080393
+[^1]: 20080393, [Github Repo](https://github.com/zeykrn/finall.git)
 
 # Introduction
   
