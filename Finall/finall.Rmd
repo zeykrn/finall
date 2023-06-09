@@ -25,7 +25,7 @@ urlcolor: blue
 fontsize: 12pt
 biblio-style: apalike
 abstract: |
-  In this research, I argue that question "Do high-priced games affect sales worse than low-priced ones?". In the articles I quoted, I focused on the effects of the price drop on the purchase of games, and I do my studies on this. I supported my research with tables, hypothesis testing, and graph to support these question. As a result...
+  Video games are known as a subject that both children and young people follow with curiosity, and newly released games are the focus of gamers. So, how popular and best-selling is each updated game? In my analysis, I discussed whether prices affect sales positively or negatively. According to my research, I have come to the conclusion that high prices affect sales negatively. I explained that low-priced games were more preferred in my analysis and supported it with data summary table, t-test and graphs. This result is that children and young people tend to cheap games more and make their choices in favor of them.
 ---
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(cache = FALSE, echo = TRUE, message = FALSE, warning = FALSE)
@@ -131,11 +131,10 @@ By looking at this plot, It can be said that the ownership density of games at t
 
 
 # Conclusion
-Summarize the results of your analysis in this section. Discuss to what extent your results responded to the research question you identified at the beginning and how this work could be improved in the future.
+The t-tests and graphs I used in my analysis confirmed my hypothesis and showed that low-priced games have a greater positive impact on sales than high-priced games.The T Test made this result stronger but still, the means between each data were not signifficantly different from each other. Because of this, the graphs made it very clear that the lower priced games had more density in terms of sales than the higher priced games.
 
-**References section is created automatically by Rmarkdown. There is no need to change the references section in the draft file.**
+Although the data I have is sufficient for this research, more observations and research can be done such as finding better articles since the articles gave little to no information on the sales of games and it was hard to find a good and relative article on how the sales prices of the games have an impact on both the games and the developers in the coming years, and thus the changes in the game price demands of the owners over time. 
 
-**_You shouldn't delete the last 3 lines. Those lines are required for References section._**
 
 \newpage
 # References {#references}
